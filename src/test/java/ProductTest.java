@@ -126,4 +126,16 @@ class ProductTest {
         },()->"Failed to thrown IllegalArgumentException on list with 2 elements");
         assertEquals("List too short",exception.getMessage());
     }
+
+    @Test
+    void run(){
+        list.add(3);
+        list.add(3);
+        list.add(3);
+        list.add(4);
+        list.add(3);
+        list.add(3);
+        assertEquals(36, p.run(list));
+
+    }
 }
