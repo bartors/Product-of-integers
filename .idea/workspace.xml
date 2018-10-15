@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bffda09-083d-427c-983f-421c9e49f040" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ProductTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ardoq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ardoq.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/text" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/sdss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProductTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Ardoq$ProductTest.ic" NAME="ProductTest Coverage Results" MODIFIED="1539626736746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Ardoq$ProductTest.ic" NAME="ProductTest Coverage Results" MODIFIED="1539627032992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="15" />
@@ -56,13 +41,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1350" />
+          <entry key="java" value="1355" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1350" />
+          <entry key="JAVA" value="1355" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -86,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ProductTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+            <state relative-caret-position="233">
+              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#489#490#0" expanded="true" />
@@ -218,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539626746814" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539627031228" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -297,14 +282,11 @@
       <option name="presentableId" value="Default" />
       <updated>1539604356645</updated>
       <workItem from="1539604361665" duration="5172000" />
-      <workItem from="1539621894062" duration="4507000" />
+      <workItem from="1539621894062" duration="4773000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProductTest - 2018.10.15 at 19h 13m 17s.xml">
-      <configuration name="ProductTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProductTest - 2018.10.15 at 19h 35m 50s.xml">
       <configuration name="ProductTest" configurationId="JUnit" />
     </history-entry>
@@ -332,9 +314,12 @@
     <history-entry file="ProductTest - 2018.10.15 at 20h 04m 25s.xml">
       <configuration name="ProductTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ProductTest - 2018.10.15 at 20h 05m 37s.xml">
+      <configuration name="ProductTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9679000" />
+    <option name="totallyTimeSpent" value="9945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
@@ -408,8 +393,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ProductTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        <state relative-caret-position="233">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#489#490#0" expanded="true" />

@@ -57,12 +57,13 @@ class ProductTest {
 
         assertEquals(0,p.product(list),()->"Failure on the product of zeros");
     }
-    void produc2(){
+    @Test
+    void product2(){
         for(int i=-10;i<=10;i++){
             list.add(i);
         }
 
-        assertEquals(90,p.product(list),()->"Failure on the list with negative and positive integers");
+        assertEquals(720,p.product(list),()->"Failure on the list with negative and positive integers");
     }
     @Test
     void negativeProduct(){
