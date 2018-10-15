@@ -36,4 +36,17 @@ public class Product {
         }
         return first*second*third;
     }
+
+    public boolean isValid(ArrayList<Integer> list){
+        return list.size()>=3;
+    }
+
+
+    public int run(ArrayList<Integer> list){
+        if(isValid(list)){
+            return product(list);
+        }else{
+            throw new IllegalArgumentException("List too short");
+        }
+    }
 }
